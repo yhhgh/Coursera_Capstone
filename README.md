@@ -5,3 +5,6 @@ Use the BeautifulSoup package to transform the data in the table on the Wikipedi
 
 ##	Segmenting and Clustering Neighborhoods in Toronto 1.1.ipynb
 Get the latitude and the longitude coordinates of each neighborhood
+
+##	Segmenting and Clustering Neighborhoods in Toronto 1.2.ipynb
+Explore and cluster the neighborhoods in Toronto
